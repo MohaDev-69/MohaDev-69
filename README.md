@@ -7,7 +7,7 @@ name : "MohaDev69",
 developer : "Full-stack Developer",
 age : "15 y.o",
 nationality : "iraqi",
-coding : "since 10 month's"
+coding : "since 1 year"
 ]
 
 console.log(`hey 👋 , \n whoiam ? ${whoiam}`)
