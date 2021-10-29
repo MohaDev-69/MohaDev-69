@@ -2,15 +2,15 @@
 console.log("hello wolrd")
 ```
 ```js
-const whoiam = [
-name : "MohaDev69",
-developer : "Full-stack Developer",
-age : "15 y.o",
-nationality : "iraqi",
-coding : "since 1 year"
-]
+const whoiam = {
+name: "MohaDev69",
+developer: "Full-stack Developer",
+age: "15 y.o",
+nationality: "iraqi",
+coding: "since 1 year"
+}
 
-console.log(`hey 👋 , \n whoiam ? ${whoiam}`)
+console.log(`hey 👋 , \n whoiam ?` , whoiam)
 ```
 <hr />
 <h4> 📊 Github Statics :</h4>
