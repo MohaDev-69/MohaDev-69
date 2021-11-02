@@ -16,7 +16,7 @@ console.log(`hey 👋 , \n whoiam ?` , whoiam)
 <h4> 📊 Github Statics :</h4>
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=MohaDev-69&show_icons=true&theme=tokyonight&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohaDev-69&layout=compact&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohaDev-69&layout=compact&theme=tokyonight"/>
 <img src="https://komarev.com/ghpvc/?username=MohaDev-69" alt="views on github" />
 </p>
 
