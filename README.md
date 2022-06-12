@@ -5,9 +5,9 @@ console.log("hello wolrd")
 const whoiam = {
 name: "MohaDev69",
 developer: "Full-stack Developer",
-age: "15 y.o",
+age: "16 y.o",
 nationality: "iraqi",
-coding: "since 1 year"
+coding: "since 2 years"
 }
 
 console.log(`hey 👋 , \n whoiam ?` , whoiam)
