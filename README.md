@@ -37,8 +37,6 @@ console.log(`hey 👋 , \n whoiam ?` , whoiam)
     <img alt="css" src="https://img.shields.io/badge/Css3-214CE5?style=for-the-badge&logo=css3&logoColor=white"/>
     &emsp;
     <img alt="ruby" src="https://img.shields.io/badge/Ruby-B01401?style=for-the-badge&logo=ruby&logoColor=white"/>
-    &emsp;
-    <img alt="python" src="https://img.shields.io/badge/Python-3667e2?style=for-the-badge&logo=python&logoColor=white"/>
     </p>
     <hr />
     <h5> Databases i know :</h5>
