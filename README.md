@@ -1,5 +1,5 @@
 ```js
-console.log("hello wolrd")
+console.log("hello world")
 ```
 ```js
 const whoiam = {
