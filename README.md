@@ -4,10 +4,10 @@ console.log("hello world")
 ```js
 const whoiam = {
 name: "MohaDev69",
-developer: "Full-stack Developer",
-age: "17 y.o",
+developer: "Senior Full-stack Developer",
+age: "20 y.o",
 nationality: "iraqi",
-coding: "since 2 years"
+coding: "since 6 years"
 }
 
 console.log(`hey 👋 , \n whoiam ?` , whoiam)
