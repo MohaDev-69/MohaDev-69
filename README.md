@@ -28,8 +28,8 @@
 
 I build full-stack apps, design APIs, write systems-level code in Rust, and dabble in ML - whatever it takes to ship something real.
 
-&nbsp;&nbsp;&nbsp;🎯 &nbsp;**Focus** - Frontend · APIs · Systems · ML · AI fine-tuning · Making the world a better place digitally 
-&nbsp;&nbsp;&nbsp;🔭 &nbsp;**Now** - building a lot of cool stuff  
+&nbsp;&nbsp;&nbsp;🎯 &nbsp;**Focus** - Frontend · APIs · Systems · ML · AI fine-tuning · Making the world a better place digitally<br/>
+&nbsp;&nbsp;&nbsp;🔭 &nbsp;**Now** - building a lot of cool stuff<br/>
 &nbsp;&nbsp;&nbsp;🌍 &nbsp;**Available** - Remote worldwide  
 &nbsp;&nbsp;&nbsp;🤝 &nbsp;**Open to** - Freelance · Collabs  
 &nbsp;&nbsp;&nbsp;💬 &nbsp;**Languages** - Arabic · English  
