@@ -15,7 +15,7 @@
 <img src="divider.svg" width="100%"/>
 
 <div align="center">
-  <img src="overview.GIF" width="100%" alt="overview" />
+  <img src="overview.gif" width="100%" alt="overview" />
 </div>
 
 <table>
